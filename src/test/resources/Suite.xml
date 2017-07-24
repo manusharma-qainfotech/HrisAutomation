@@ -5,9 +5,9 @@
  
     <test name="Test"> 
    
-	<parameter name="username" value="testuser_1"/>
+	<parameter name="username" value="manusharma"/>
  
-	<parameter name="password" value="Test@123"/>
+	<parameter name="password" value="Manu@9015"/>
 
 		<classes>
  
@@ -15,5 +15,29 @@
  
 		</classes>
 </test>
+    <test name="Test1"> 
+   
+	<parameter name="username" value="ashikasrivastava"/>
  
+	<parameter name="password" value="Ashika1995"/>
+
+		<classes>
+ 
+		    <class name="com.hris.test.HrisTest" />
+ 
+		</classes>
+</test>
+    <test name="Test2"> 
+   
+	<parameter name="username" value="varunaggarwal"/>
+ 
+	<parameter name="password" value="Varun123"/>
+
+		<classes>
+ 
+		    <class name="com.hris.test.HrisTest" />
+ 
+		</classes>
+</test>
+   
 </suite>
